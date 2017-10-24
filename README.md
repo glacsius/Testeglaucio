@@ -15,3 +15,9 @@ trequinho
 Eu sou churrosssssssss ahahahhaa
 
 {{/tip}}
+
+``` command-line
+$ apm help install
+```
+
+You can also install packages or themes from the command line using `apm`.
