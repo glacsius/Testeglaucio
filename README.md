@@ -7,5 +7,11 @@ coisas do além
 
 Estou aprendendo coisas.
 
-Esse é um texto livre para aprendizado do gláucio 
+Esse é um texto livre para aprendizado do gláucio
 trequinho
+
+{{#tip}}
+
+Eu sou churrosssssssss ahahahhaa
+
+{{/tip}}
