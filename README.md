@@ -12,7 +12,7 @@ trequinho
 
 {{#tip}}
 
-Eu sou churrosssssssss ahahahhaa :)  ++
+Eu sou churrosssssssss ahahahhaa :)  -----++-----
 
 {{/tip}}
 
