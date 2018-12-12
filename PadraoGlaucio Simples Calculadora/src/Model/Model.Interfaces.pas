@@ -8,6 +8,7 @@ type
     function Add(Value: String): ICalculadora; overload;
     function Add(Value: Integer): ICalculadora; overload;
     function Somar(): String;
+	function Churros(): String;
   end;
 
 implementation
