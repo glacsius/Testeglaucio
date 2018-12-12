@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/23 18:19:50.000.014,=C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/24 07:42:41.000.062,=C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/24 17:28:26.000.106,=C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/06 15:35:23.000.983,=C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/08 15:59:37.000.127,=C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/08 16:01:44.000.759,=C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/12/08 16:03:51.000.817,=C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/12/08 16:27:16.000.573,C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\Model\Model.Calculadora.pas</Transaction>
+    <Transaction>2018/12/08 16:36:33.000.048,C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\View\View.Main.pas</Transaction>
+    <Transaction>2018/12/08 16:36:33.000.048,C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\View\View.Main.dfm</Transaction>
+    <Transaction>2018/12/08 16:36:44.000.818,C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\Model\Model.Interfaces.pas</Transaction>
+    <Transaction>2018/12/08 16:36:51.000.363,C:\Users\Glaucio\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\PrjCalculadora.dproj</Transaction>
+    <Transaction>2018/12/08 16:45:51.094,=D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\Unit1.pas</Transaction>
+    <Transaction>2018/12/08 16:46:01.505,D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\Controller\Controller.Calculadora.pas=D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\Unit1.pas</Transaction>
+    <Transaction>2018/12/08 16:59:39.412,=D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\Unit1.pas</Transaction>
+    <Transaction>2018/12/08 17:00:12.521,D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\View\View.Calculadora.dfm=D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\Unit1.dfm</Transaction>
+    <Transaction>2018/12/08 17:00:12.521,D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\View\View.Calculadora.pas=D:\AKS\Development\Testes\Delphi\Padroes\PadraoGlaucio Simples Calculadora\src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
